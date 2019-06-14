@@ -10,7 +10,7 @@ output: One Hundred twenty three
 
 
 ## Usage:
-https://dotnet-numconverter.azurewebsites.net/api/num/{num}?code=aJ4p4StYOrxiMdvnPpfPuNaOKoCkxY0C8RBYy3Dxw6qF1sr6HVHYbQ==
+https://dotnet-numconverter.azurewebsites.net/api/num/9999999999999999?code=aJ4p4StYOrxiMdvnPpfPuNaOKoCkxY0C8RBYy3Dxw6qF1sr6HVHYbQ==
 
 replace `num` with any integer. It supports upto 10 power 66. ( Yeah, I know right. )
 
