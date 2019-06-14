@@ -14,4 +14,4 @@ https://dotnet-numconverter.azurewebsites.net/api/num/9999999999999999?code=aJ4p
 
 replace `num` with any integer. It supports upto 10 power 66. ( Yeah, I know right. )
 
-if the code is expired, it is probabily because of the abuse. So feel free to fork it and work with your app.
+Feel free to fork it and work with your app.
